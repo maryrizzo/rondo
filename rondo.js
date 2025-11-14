@@ -1,6 +1,6 @@
 /* Load site/pages/items from Google Sheets (gviz) and render site.
    Items list is independent of pages: no auto-filtering by page. */
-var spreadsheetID = "1iwIx8sqiBTqbtAI7TX4vDGDVee3dPz0wa3MazBv2fzQ";
+var spreadsheetID = "1xxE-TAa-n8w6EuzN6oaMB2cJOOSjdS1SzZTlqRIDv-g";
 var siteSheet  = "1569296108";
 var pagesSheet = "28080804";
 var itemsSheet = "0";
